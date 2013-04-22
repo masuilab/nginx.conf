@@ -4,7 +4,7 @@ nginx.conf on masui.sfc.keio.ac.jp
 copy to /usr/local/etc/nginx
 
 
-build
+Build
 -----
 
 download nginx 1.3.16
@@ -38,7 +38,14 @@ download nginx 1.3.16
 ```
 
 
-ref
+Install
+-------
+
+    % sudo cp /usr/local/etc/nginx/etc/nginx.plist /Library/LaunchDaemons/nginx.plist
+    % sudo launchctl load -w /Library/LaunchDaemons/nginx.plist
+
+
+Ref
 ---
 
 * https://gist.github.com/geta6/5380833
