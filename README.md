@@ -1,7 +1,8 @@
 nginx.conf on masui.sfc.keio.ac.jp
 ==================================
 
-copy to /usr/local/etc/nginx
+* https://github.com/masuilab/nginx.conf
+* /usr/local/etc/nginx
 
 
 Build
