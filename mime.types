@@ -40,6 +40,7 @@ types {
     application/x-java-archive-diff       jardiff;
     application/x-java-jnlp-file          jnlp;
     application/x-makeself                run;
+    application/x-omnigraffle             graffle;
     application/x-perl                    pl pm;
     application/x-pilot                   prc pdb;
     application/x-rar-compressed          rar;
