@@ -8,7 +8,7 @@ nginx.conf on masui.sfc.keio.ac.jp
 Build
 -----
 
-download nginx 1.3.16
+download nginx 1.4.7
 
 - http://nginx.org/en/download.html
 
